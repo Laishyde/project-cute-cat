@@ -1,0 +1,21 @@
+{
+ 
+  "category": [
+    {
+      "id": 1,
+      "name": "dormindo"
+    },
+    {
+      "id": 2,
+      "name": "pulando"
+    },
+    {
+      "id": 3,
+      "name": "comendo"
+    },
+    {
+      "id": 4,
+      "name": "bravo"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.content{
+    text-align: center ;
+    background-image: url(../assets/back2.png);
+    font-size: 20px;
+}
+.content p{
+    font-size: 30px;
+}
+@media(max-width:900px){
+    .content{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    video{
+        width: 200px;
+    }
+    .content img{
+        width: 200px;
+    }
+    .content p {
+        width: 200px;
+    }
+}

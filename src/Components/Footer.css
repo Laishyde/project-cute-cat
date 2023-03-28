@@ -1,0 +1,14 @@
+.final{
+    background-color: #FF94AE;
+    height: 150px;
+   margin-top: 160px;
+ 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.final img{
+    width: 110px;
+}

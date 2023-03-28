@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto-Bold;
+  
+}
+@font-face {
+  font-family:Roboto-Bold ;
+  src: url(../src/assets/Roboto-Bold.ttf) format('truetype');
+} 
+button{
+  padding: 20px 30px;
+  border: 1px solid #FF94AE;
+  background-color: #CCA86E;
+  transition: 2s;
+  cursor: pointer;
+  color: #59433A;
+  font-size: 20px;
+  border-radius: 10px;
+  
+ 
+}
+button:hover{
+  background-color: #FF94AE;
+  color: #95EFD3;
+ 
+}

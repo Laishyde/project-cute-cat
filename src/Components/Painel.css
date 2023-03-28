@@ -1,0 +1,61 @@
+.wall {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 430px 430px;
+    row-gap: 20px;
+    background-image: url(../assets/backigr.png);
+
+}
+.space {
+    justify-content: center; 
+    background-position: center;
+        background-size: cover;
+    width: 416px;
+    height: 252px;
+    border: 5px solid #FF94AE;
+    border-radius: 5px ;
+   
+}
+.space:hover{
+    opacity: 0.5;
+}
+
+.one{
+    background-image: url(../assets/fish.png);
+    
+
+}
+.two{
+    background-image: url(../assets/happy.png);
+    
+
+}
+.three{
+    background-image: url(../assets/green.png);
+
+}
+.four{
+    background-image: url(../assets/food.jpg.png);
+
+}
+.five{
+    background-image: url(../assets/smile.png);
+
+}
+.six{
+    background-image: url(../assets/bravo.png);
+
+}
+@media (max-width:900px) {
+    .wall{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+        .space{
+            width: 200px;
+        }
+    
+}
