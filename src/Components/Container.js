@@ -15,9 +15,7 @@ const Container = () => {
     <div className="content">
     
        
-      
-    
-        <h1>Bem Vindos ao mundo dos <span>Gatinhos</span></h1>
+      <h1>Bem Vindos ao mundo dos</h1> <span>Gatinhos</span>
       <Link to="/Painel">
       <button className='button'>Vem conhecer</button>
       </Link>
