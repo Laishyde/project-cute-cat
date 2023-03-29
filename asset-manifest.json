@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/project-cute-cat/static/css/main.b9a18c1f.css",
+    "main.js": "/project-cute-cat/static/js/main.9c641d22.js",
+    "static/js/787.11abe80e.chunk.js": "/project-cute-cat/static/js/787.11abe80e.chunk.js",
+    "static/media/dango.mp3": "/project-cute-cat/static/media/dango.7d085663cf12d8cf4e4a.mp3",
+    "static/media/video.mp4": "/project-cute-cat/static/media/video.f3cdb36b7534eb2ba773.mp4",
+    "static/media/gif.gif": "/project-cute-cat/static/media/gif.87ca05de98e7e8990bfa.gif",
+    "static/media/comer.png": "/project-cute-cat/static/media/comer.abfcfd1c16bbca61e824.png",
+    "static/media/hanb.png": "/project-cute-cat/static/media/hanb.84b135855a2f1d84ef8b.png",
+    "static/media/catfat.png": "/project-cute-cat/static/media/catfat.aeb0a16550ff825ef95e.png",
+    "static/media/happy.png": "/project-cute-cat/static/media/happy.8c3ac353375293df62b9.png",
+    "static/media/green.png": "/project-cute-cat/static/media/green.9e63dcf96ae29a10eba4.png",
+    "static/media/fish.png": "/project-cute-cat/static/media/fish.85065306a3e71c0c856c.png",
+    "static/media/bravo.png": "/project-cute-cat/static/media/bravo.1812d8d5628adbe39197.png",
+    "static/media/food.jpg.png": "/project-cute-cat/static/media/food.jpg.19d33698e08bdc7a32bc.png",
+    "static/media/smile.png": "/project-cute-cat/static/media/smile.3b680628e2d5670facf1.png",
+    "static/media/Roboto-Bold.ttf": "/project-cute-cat/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/box.gif": "/project-cute-cat/static/media/box.fea5a79a105d60598f62.gif",
+    "static/media/cat.png": "/project-cute-cat/static/media/cat.443a8036ebade596d222.png",
+    "static/media/backigr.png": "/project-cute-cat/static/media/backigr.b380ee443da822c4c978.png",
+    "static/media/back2.png": "/project-cute-cat/static/media/back2.adadc41c43ee4cd23ee3.png",
+    "static/media/click.png": "/project-cute-cat/static/media/click.fef0b01917c2fe602e3b.png",
+    "index.html": "/project-cute-cat/index.html",
+    "main.b9a18c1f.css.map": "/project-cute-cat/static/css/main.b9a18c1f.css.map",
+    "main.9c641d22.js.map": "/project-cute-cat/static/js/main.9c641d22.js.map",
+    "787.11abe80e.chunk.js.map": "/project-cute-cat/static/js/787.11abe80e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a18c1f.css",
+    "static/js/main.9c641d22.js"
+  ]
+}
