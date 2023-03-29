@@ -16,11 +16,11 @@ function Header() {
                 </div>
                 <nav className='nav2'>
                     <ul>
-                        <li>  <Link to="/">Voltar </Link></li>
+                        <li>  <Link to="/https://github.com/Laishyde/project-cute-cat">Voltar </Link></li>
                         
                         <li><Link to="/Quer ganhar um sorriso">
                             
-                            <a href="https://laishyde.github.io/project-cute-cat/">Voltar para o aplicativo</a></Link></li>
+                            Quer ganhar um sorriso</Link></li>
 
                     </ul>
                 </nav>
@@ -30,7 +30,7 @@ function Header() {
                 <label for="menu-icon"></label>
                 <nav class="nav">
                     <ul class="pt-5">
-                        <Link to="/">Voltar para o aplicativo</Link>
+                        <li> <Link to="/https://github.com/Laishyde/project-cute-cat">Voltar </Link></li>
                         <li><Link to="/Quer ganhar um sorriso"> Sorrisos</Link></li>
                     
                     </ul>

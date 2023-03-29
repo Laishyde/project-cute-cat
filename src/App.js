@@ -20,14 +20,17 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
+      
   
    
       <Router>
         <Header />
         <Container />
         <Routes>
+          <Route path="/" element={<Container />} />
           <Route path="/Painel" element={<Painel />} />
           <Route path="/Quer ganhar um sorriso" element={<SecondPage />} />
+          <Route path="/Home" element={<Container />} />
         </Routes>
         <Footer />
       </Router>

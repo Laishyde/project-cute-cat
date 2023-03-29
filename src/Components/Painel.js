@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const Painel = (props) => {
   return (
     <div>
-    
+   
       <Form/>
         <h2>mais gatinhos pra você</h2>
         <div className='wall'>
