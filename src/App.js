@@ -4,6 +4,7 @@ import SecondPage from './Components/SecondPage'
 import Painel from './Components/Painel'
 import Footer from './Components/Footer'
 import Header from './Components/Header'
+import Test from './Components/Test'
 
 
 
@@ -23,11 +24,9 @@ function App() {
    
       <Router>
         <Header />
-        <Container/>
         <Routes>
-          
+          <Route path="/" element={<Container />} />
           <Route path="/Painel" element={<Painel />} />
-          <Route path="/Home" element={''} />
           <Route path="/Quer ganhar um sorriso" element={<SecondPage />} />
         </Routes>
         <Footer />

@@ -2,23 +2,43 @@
     text-align: center ;
     background-image: url(../assets/back2.png);
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
 }
 .content p{
     font-size: 30px;
 }
+   video {
+       width: 400px;
+   }
+
+   .content img {
+       width: 200px;
+   }
+
+  
+   
 @media(max-width:900px){
     .content{
         display: flex;
         justify-content: center;
         flex-direction: column;
+        background-image: url(../../src/assets/reponsivo.png);
     }
     video{
         width: 200px;
     }
     .content img{
         width: 200px;
+        padding-top: 30px;
     }
     .content p {
         width: 200px;
     }
+    h1{
+        padding-top: 50px;
+    }
+    
 }

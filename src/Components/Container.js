@@ -16,8 +16,8 @@ const Container = () => {
     
        
       <h1>Bem Vindos ao mundo dos</h1> <span>Gatinhos</span>
-      <Link to="/Painel">
-      <button className='button'>Vem conhecer</button>
+      <Link to="/Painel ">
+      <button className='button '>Vem conhecer</button>
       </Link>
     
     
