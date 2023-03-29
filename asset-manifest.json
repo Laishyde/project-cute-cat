@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-cute-cat/static/css/main.e8e2d2e8.css",
+    "main.css": "/project-cute-cat/static/css/main.ee1558b4.css",
     "main.js": "/project-cute-cat/static/js/main.059c658c.js",
     "static/js/787.11abe80e.chunk.js": "/project-cute-cat/static/js/787.11abe80e.chunk.js",
     "static/media/dango.mp3": "/project-cute-cat/static/media/dango.7d085663cf12d8cf4e4a.mp3",
@@ -22,12 +22,12 @@
     "static/media/back2.png": "/project-cute-cat/static/media/back2.adadc41c43ee4cd23ee3.png",
     "static/media/click.png": "/project-cute-cat/static/media/click.fef0b01917c2fe602e3b.png",
     "index.html": "/project-cute-cat/index.html",
-    "main.e8e2d2e8.css.map": "/project-cute-cat/static/css/main.e8e2d2e8.css.map",
+    "main.ee1558b4.css.map": "/project-cute-cat/static/css/main.ee1558b4.css.map",
     "main.059c658c.js.map": "/project-cute-cat/static/js/main.059c658c.js.map",
     "787.11abe80e.chunk.js.map": "/project-cute-cat/static/js/787.11abe80e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8e2d2e8.css",
+    "static/css/main.ee1558b4.css",
     "static/js/main.059c658c.js"
   ]
 }
