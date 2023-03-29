@@ -18,7 +18,9 @@ function Header() {
                     <ul>
                         <li>  <Link to="/">Voltar </Link></li>
                         
-                        <li><Link to="/Quer ganhar um sorriso">Quer ganhar um sorriso</Link></li>
+                        <li><Link to="/Quer ganhar um sorriso">
+                            
+                            <a href="https://laishyde.github.io/project-cute-cat/">Voltar para o aplicativo</a></Link></li>
 
                     </ul>
                 </nav>
