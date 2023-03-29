@@ -11,14 +11,28 @@ function Header() {
                 <div>
                     <img className='gato' src={Cat} alt="" />
                 </div>
-                <nav>
+                <nav className='nav2'>
                     <ul>
                         <li><Link to="/Home">Home</Link></li>
                         <li><Link to="/Quer ganhar um sorriso">Quer ganhar um sorriso</Link></li>
 
                     </ul>
                 </nav>
+            </div>
+           <div className='mob'>
+            <input className="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
+            <label for="menu-icon"></label>
+            <nav className="nav">
+                <ul class="pt-5">
+                        <li><Link to="/Home">Home</Link></li>
+                        <li><Link to="/Quer ganhar um sorriso"> sorrisos</Link></li>
+                  
+                </ul>
+            </nav>
 
+            <div className="section-center">
+             
+            </div>
             </div>
         </div>
     );
